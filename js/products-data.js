@@ -1,0 +1,8 @@
+const products = [
+ {id:1,name:"Nova Wireless Headphones",category:"electronics",price:2499,rating:4.6,image:"images/headphones.svg",description:"Comfortable wireless headphones with rich sound, soft ear cushions and long battery life.",details:["Bluetooth connectivity","Up to 30 hours battery","Built-in microphone","USB-C charging"]},
+ {id:2,name:"Pulse Smart Watch",category:"electronics",price:3299,rating:4.4,image:"images/watch.svg",description:"A modern smartwatch for daily activity tracking, notifications and time management.",details:["1.8-inch display","Activity tracking","Message notifications","Water resistant design"]},
+ {id:3,name:"Urban Classic Sneakers",category:"fashion",price:1899,rating:4.5,image:"images/shoes.svg",description:"Everyday sneakers designed for comfort and a clean casual look.",details:["Breathable upper","Cushioned sole","Lightweight build","Multiple sizes"]},
+ {id:4,name:"Minimal Backpack",category:"fashion",price:1299,rating:4.3,image:"images/backpack.svg",description:"A practical backpack for college, work and everyday travel.",details:["Laptop compartment","Water-resistant fabric","Multiple pockets","Adjustable straps"]},
+ {id:5,name:"Aroma Desk Lamp",category:"home",price:899,rating:4.2,image:"images/lamp.svg",description:"A compact desk lamp with a warm glow for study and workspace environments.",details:["LED light","Touch control","Low power use","Compact design"]},
+ {id:6,name:"Ceramic Coffee Mug",category:"home",price:499,rating:4.7,image:"images/mug.svg",description:"Simple ceramic mug suitable for coffee, tea and everyday use.",details:["350 ml capacity","Ceramic body","Easy to clean","Daily-use design"]}
+];
