@@ -207,8 +207,9 @@ Razorpay / Stripe
 
 ## Author
 
-**Kanchan Suresh Salunkhe**  
-B.Sc. Computer Application
+**Kanchan Salunkhe** <br>
+Entry-level Software Developer | Pune, Maharashtra <br>
+[Linkedin](https://www.linkedin.com/in/kanchan85)
 
 ## License
 
