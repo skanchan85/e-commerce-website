@@ -1,6 +1,6 @@
-# ShopSphere – E-Commerce Web Application
+# E-Commerce Web Application
 
-ShopSphere is a responsive front-end e-commerce web application developed using **HTML5, CSS3, JavaScript and Bootstrap 5**.
+This site is a responsive front-end e-commerce web application developed using **HTML5, CSS3, JavaScript and Bootstrap 5**.
 
 ## Features
 
