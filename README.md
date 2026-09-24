@@ -1,8 +1,8 @@
-# 🛍️ ShopSphere – E-Commerce Web Application
+# ShopSphere – E-Commerce Web Application
 
 ShopSphere is a responsive front-end e-commerce web application developed using **HTML5, CSS3, JavaScript and Bootstrap 5**.
 
-## 🚀 Features
+## Features
 
 - Responsive Bootstrap navigation bar
 - Home page with featured products
@@ -20,7 +20,7 @@ ShopSphere is a responsive front-end e-commerce web application developed using 
 - FAQ accordion
 - Mobile, tablet and desktop responsive design
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -29,7 +29,7 @@ ShopSphere is a responsive front-end e-commerce web application developed using 
 - Browser LocalStorage
 - SVG images
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 ShopSphere_Ecommerce/
@@ -58,7 +58,7 @@ ShopSphere_Ecommerce/
     └── mug.svg
 ```
 
-## 📄 Pages
+## Pages
 
 ### Home — `index.html`
 Includes the hero section, featured products, navigation, shopping CTA and feature highlights.
@@ -75,7 +75,7 @@ Provides cart management, quantity controls, item removal, subtotal, delivery ch
 ### Contact / Help — `contact.html`
 Includes a contact form and FAQ/help center using Bootstrap accordion components.
 
-## 🛒 Cart Functionality
+## Cart Functionality
 
 Cart data is stored in the browser using `localStorage`, so products remain in the cart after a page refresh.
 
@@ -88,7 +88,7 @@ Example:
 ]
 ```
 
-## 💳 Checkout
+## Checkout
 
 The project contains a **demo checkout flow** with:
 
@@ -98,9 +98,9 @@ The project contains a **demo checkout flow** with:
 - Payment method
 - Place Order action
 
-> ⚠️ This is a front-end portfolio project. It does not process real payments or create real orders.
+> This is a front-end portfolio project. It does not process real payments or create real orders.
 
-## 🔎 Search & Filtering
+## Search & Filtering
 
 Products can be searched by name or description and filtered by:
 
@@ -108,7 +108,7 @@ Products can be searched by name or description and filtered by:
 - Fashion
 - Home
 
-## 📱 Responsive Design
+## Responsive Design
 
 The website is designed for:
 
@@ -119,7 +119,7 @@ The website is designed for:
 
 Bootstrap's responsive grid and navbar are combined with custom CSS media queries.
 
-## ▶️ How to Run
+##  How to Run
 
 ### Using VS Code
 
@@ -132,7 +132,7 @@ Bootstrap's responsive grid and navbar are combined with custom CSS media querie
 
 You can also open `index.html` directly in a modern browser.
 
-## 📱 Mobile Testing
+## Mobile Testing
 
 You can test the project on Android using an HTML/code editor with preview support, such as Acode.
 
@@ -142,7 +142,7 @@ You can test the project on Android using an HTML/code editor with preview suppo
 4. Open `index.html`.
 5. Start the HTML preview.
 
-## 🧪 Testing Checklist
+## Testing Checklist
 
 - [ ] Home page loads
 - [ ] Responsive navbar works
@@ -162,11 +162,11 @@ You can test the project on Android using an HTML/code editor with preview suppo
 - [ ] FAQ accordion works
 - [ ] Mobile layout works
 
-## 🎯 Project Objective
+## Project Objective
 
 The objective of ShopSphere is to demonstrate practical front-end development skills by creating a complete e-commerce interface with dynamic product rendering, client-side cart management, responsive UI and an interactive checkout flow.
 
-## 📌 Limitations
+## Limitations
 
 This is a front-end demonstration project and currently does not include:
 
@@ -189,7 +189,7 @@ JWT Authentication
 Razorpay / Stripe
 ```
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - User registration and login
 - Spring Boot REST API
@@ -205,15 +205,11 @@ Razorpay / Stripe
 - JWT authentication
 - Cloud deployment
 
-## 💼 Resume Description
-
-> **E-Commerce Web Application** — Developed a responsive e-commerce web application using HTML, CSS, JavaScript and Bootstrap, featuring product listing and search, category filtering, product details, cart management, demo checkout, and contact/help functionality with localStorage-based cart persistence.
-
-## 👩‍💻 Author
+## Author
 
 **Kanchan Suresh Salunkhe**  
 B.Sc. Computer Application
 
-## 📜 License
+## License
 
 This project is created for learning, portfolio and demonstration purposes.
